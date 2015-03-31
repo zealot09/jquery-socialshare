@@ -2,7 +2,10 @@
 the social share plugin of jquery
 
 ##get started
-define the html structure like this:
+include the `jquery-socialshare.js` to your page after jquery
+`<script src='jquery-socialshare.js'></script>`
+
+then define the html structure like this:
 ```html
 	<div id="example" class="socialShare"
 	  data-render="lineRight" 
